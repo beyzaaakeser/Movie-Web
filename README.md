@@ -6,6 +6,7 @@ This movie website I designed has an eye-catching and impressive appearance that
 
 - HTML5
 - CSS3
+- JavaScript
 
 <h2> Visit My Movie Website: </h2>
 
